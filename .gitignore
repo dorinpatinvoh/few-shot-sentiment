@@ -1,0 +1,29 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Modèles et caches
+*.pth
+*.pt
+*.bin
+.cache/
+cache/
+*.cache
+models/
+transformers_cache/
+.transformers/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
